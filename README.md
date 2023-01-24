@@ -1,2 +1,0 @@
-# cocktail
-Created with CodeSandbox
